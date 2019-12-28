@@ -1,0 +1,35 @@
+{
+	"name": "neutrality",
+	"displayName": "Neutrality",
+	"description": "Light theme",
+	"version": "1.0.0",
+	"publisher": "mike-flanigan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/76784/Neutrality.git"
+	},
+	"license": "GNU General Public License v3.0",
+	"icon": "icon.png",
+	"keywords": [
+		"light theme",
+		"low contrast",
+		"light",
+		"easy on eyes",
+		"eye strain"
+	],
+	"engines": {
+		"vscode": "^1.21.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Neutrality",
+				"uiTheme": "vs",
+				"path": "./themes/Neutrality-color-theme.json"
+			}
+		]
+	}
+}
