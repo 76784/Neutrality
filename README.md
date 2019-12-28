@@ -5,7 +5,7 @@ Polished support for ES6 (JavaScript), HTML, CSS, SCSS, Markdown, JSON. General 
 
 ## About **Neutrality**
 
-**Neutrality** is a darker version of [Daobeam][2], with modified foreground colors.
+**Neutrality** is a darker version of [Daobeam][1], with modified foreground colors.
 
 All colors are meant to compliment each other. I have attempted to harmonize colors using [a professional tool][0].
 
